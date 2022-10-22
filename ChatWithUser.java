@@ -1,5 +1,3 @@
-package a6;
-
 import java.util.Scanner;
 
 /**
@@ -7,11 +5,7 @@ import java.util.Scanner;
  * The chat session can be started by running this class. See the main method
  * for more details.
  * 
- * THIS FILE IS COMPLETE AND WORKING. DO NOT MODIFY IT.
- * 
- * 
- * @author David Johnson
- */
+ **/
 public class ChatWithUser {
     
     /**
