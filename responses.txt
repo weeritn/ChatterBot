@@ -1,3 +1,5 @@
+// The first word is a trigger word, anything after that is a response.
+
 sad Why are you sad?
 mad Why are you mad?
 hello Hello! What would you like to talk about?
